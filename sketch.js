@@ -13,7 +13,6 @@ var bg1 = "sunset.png"
 
 function preload() {
     getBackgroundImg();
-    getTime();
 }
 
 function setup(){
